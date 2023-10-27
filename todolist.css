@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(201, 24, 101);
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    margin: 30px;
+    margin-top: 5px;
+}
+input{
+    width: 300px;
+    padding: 15px;
+    border: 2px solid rgb(93, 45, 225);
+    outline: none;
+    font-size: 20px;
+}
+button{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(63, 17, 103);
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2px;
+    font-size: 20px;
+}
+.text ul{
+    position: relative;
+    background-color: rgb(44, 4, 41);
+    color: white;
+    font-size: 20px;
+    padding: 7px;
+    text-align: center;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
